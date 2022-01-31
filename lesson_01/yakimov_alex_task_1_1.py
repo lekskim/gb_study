@@ -1,9 +1,10 @@
+#Реализовать вывод информации о промежутке времени в зависимости от его продолжительности duration в секундах.
+
 duration = int(input('Введите кол-во секунд '))
 days = 0
 hours = 0
 minutes = 0
 seconds = 0
-
 
 if duration < 60:
     print(str(duration)+' сек')
