@@ -9,4 +9,3 @@ for i in range(0, len(employees)):
     worker = employees[i].split()
     name = worker[-1].capitalize()
     print('Привет, %s!' % name)
-    i = i + 1
