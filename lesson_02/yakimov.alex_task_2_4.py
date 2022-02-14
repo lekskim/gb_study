@@ -6,7 +6,11 @@ print(price)
 for i in range(0, len(price)):  #Вывод рублей и поиск значения копеек
     rub = int(price[i] // 1)
     kop = int(price[i] * 100 % 100)
+<<<<<<< HEAD
     if 0 <= kop <= 9: #Ищем значение копеек, где нужно добавить ноль
+=======
+    if kop <= 9: #Ищем значение копеек, где нужно добавить ноль
+>>>>>>> hometasks
         kop = str(kop).zfill(2)
     print('{} руб {} коп, '.format(rub, kop), end="")
 print(end='\n')
