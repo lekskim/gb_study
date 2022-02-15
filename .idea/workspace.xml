@@ -42,6 +42,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.yakimov_alex_task_4_4">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,10 +52,19 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+=======
+  <component name="RunManager" selected="Python.utils">
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/FirstProject/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04" />
+>>>>>>> dee2fdb (add_lesson_04)
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -76,6 +86,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
+=======
+>>>>>>> dee2fdb (add_lesson_04)
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_04/utils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -109,10 +121,14 @@
     <configuration name="yakimov_alex_task_4_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+<<<<<<< HEAD
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" />
+=======
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/FirstProject/venv/bin/python" />
+>>>>>>> dee2fdb (add_lesson_04)
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -130,9 +146,12 @@
     <configuration name="yakimov_alex_task_4_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+<<<<<<< HEAD
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+=======
+>>>>>>> dee2fdb (add_lesson_04)
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -168,11 +187,18 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+=======
+        <item itemvalue="Python.utils" />
+>>>>>>> dee2fdb (add_lesson_04)
         <item itemvalue="Python.yakimov_alex_task_4_4" />
         <item itemvalue="Python.utils" />
         <item itemvalue="Python.yakimov_alex_task_4_3" />
         <item itemvalue="Python.yakimov_alex_task_4_2" />
+<<<<<<< HEAD
         <item itemvalue="Python.yakimov_alex_task_3_5" />
+=======
+>>>>>>> dee2fdb (add_lesson_04)
       </list>
     </recent_temporary>
   </component>
