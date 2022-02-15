@@ -47,6 +47,9 @@
     <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/FirstProject/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -86,6 +89,9 @@
     <configuration name="yakimov_alex_task_4_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/FirstProject/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -104,6 +110,9 @@
     <configuration name="yakimov_alex_task_4_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -122,6 +131,9 @@
     <configuration name="yakimov_alex_task_4_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/FirstProject/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04" />
       <option name="IS_MODULE_SDK" value="false" />
